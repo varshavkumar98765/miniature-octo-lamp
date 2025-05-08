@@ -21,12 +21,12 @@ These numbers act as positional hints. Each number can be interpreted in multipl
 ### 🔢 Example Interpretation
 
 Let’s break down `123`:
-- Could mean:
+- Can mean:
   - **File 1**, **Line 12**, **Word 3**, **Letter (or character)**
   - OR: **Line 1**, **Word 2**, **Letter 3**
   - OR: **Line 1**, **Word 23**, **3rd letter**
 
-Similarly, `5663` might be:
+Similarly, `5663` can be:
 - **File 3**, **Line 56** or **Line 5**
 - **Word 6** or **Word 66**
 - **Letter 3**
